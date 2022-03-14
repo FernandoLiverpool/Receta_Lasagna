@@ -3,6 +3,8 @@
 
 # Para el relleno y la pasta
 
+![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
+
 - 1/4 de cucharadita de pimienta negra molida
 
 - 2 cucharadas de aceite
