@@ -1,7 +1,7 @@
 ## Receta_Lasagna
 
 
-# Para el relleno y la pasta
+### Para el relleno y la pasta
 {: .gitlab-orange}
 
 ![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
