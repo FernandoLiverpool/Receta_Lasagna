@@ -1,8 +1,7 @@
 ## Receta_Lasagna
 
 
-Para el relleno y la pasta
-{: .alert .alert-info .text-center}
+### Para el relleno y la pasta
 
 ![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
 
