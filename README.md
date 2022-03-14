@@ -5,6 +5,11 @@
 
 ![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
 
+<details>
+  <summary markdown="span">PASO 2</summary>
+
+ 
+ 
 - 1/4 de cucharadita de pimienta negra molida
 
 - 2 cucharadas de aceite
@@ -26,3 +31,5 @@
 - 150 gramos de queso mozzarella rallado
 
 - 10 hojas de albahaca fresca
+
+</details>
