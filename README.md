@@ -22,7 +22,7 @@
 
 - 400 gramos de carne molida de res (magra y baja en grasa)
 
-- 1 cucharada de Knorr® Costilla Jugosa
+<p> - 1 cucharada de **Knorr®** Costilla Jugosa!</p>
 
 - 12 láminas de pasta para lasaña precocida
 
