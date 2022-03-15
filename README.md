@@ -1,5 +1,21 @@
 ## Receta_Lasagna
 
+## Ingredientes
+### Para lasalsa
+<details>
+  <summary markdown="span">PASO 1</summary>
+
+- 1 kilogramos de tomate (jitomate) hervido
+
+- 2 cubos de 21 gramos de Knorr Romate
+
+- 2 cucharadas de aceite de oliva
+
+- 1/2 cebolla picada
+
+- 5 hojas de albaca seca
+
+- 1 cucharada de orégano seco
 
 ### Para el relleno y la pasta
 
