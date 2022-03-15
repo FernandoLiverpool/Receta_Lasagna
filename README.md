@@ -16,15 +16,15 @@ Valente       |
 -------------------------------
 
 
-Te decimos cómo preparar una deliciosa lasaña boloñesa. Una receta italiana muy tradicional.
+> Te decimos cómo preparar una deliciosa lasaña boloñesa. Una receta italiana muy tradicional.
 
-###¿Sabías qué?###
+### ¿Sabías qué?
 
-La masa para la pasta de lasaña se prepara con harina, huevo, sal y agua.
+> La masa para la pasta de lasaña se prepara con harina, huevo, sal y agua.
 
-###Tips###
+### Tips 
 
-Agrega nueces y semillas a la carne molida para una consistencia más crujiente.
+> Agrega nueces y semillas a la carne molida para una consistencia más crujiente.
 
 
 <details>
