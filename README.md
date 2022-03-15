@@ -13,6 +13,7 @@ Valente       |
 
 
 8 Persona | 90 Min | Compleja |
+-------------------------------
 
 
 Te decimos cómo preparar una deliciosa lasaña boloñesa. Una receta italiana muy tradicional.
