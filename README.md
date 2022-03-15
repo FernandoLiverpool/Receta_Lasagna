@@ -49,7 +49,7 @@
 </details>
 
 
-### Dale clik para ver el video 
+### Dale clik a la imagen para ver el video 
 
 
 [![Puedes ver el video](
