@@ -40,6 +40,11 @@
   <div class="panel-footer">Puedes usar el sazonador que gustes.</div>
 </div>
 
-
+<img
+  src="C:\Users\VHERNANDEV02\Downloads\garfield.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 </details>
 
