@@ -1,5 +1,13 @@
 ## Receta_Lasagna
 
+compañeros    | 
+------------- | 
+Fernando      | 
+Carlos        | 
+Luis          |
+MIke          |
+Valente       |
+
 ## Ingredientes
 ### Para lasalsa
 <details>
@@ -16,15 +24,6 @@
 - 5 hojas de albaca seca
 
 - 1 cucharada de orégano seco
-
-compañeros    | 
-------------- | 
-Fernando      | 
-Carlos        | 
-Luis          |
-MIke          |
-Valente       |
-
 
 
 ### Para el relleno y la pasta
