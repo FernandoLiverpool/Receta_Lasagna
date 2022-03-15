@@ -33,15 +33,12 @@
 - 10 hojas de albahaca fresca
 
 
-<div class="panel panel-info">
-**Nota**
-{: .panel-heading}
-<div class="panel-body">
-
-Puedes usar el sazonador que gustes.
-
+<div class="panel panel-default">
+  <div class="panel-body"**Nota**</div>
+  
 </div>
-</div>
+
 
 
 </details>
+
