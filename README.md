@@ -9,7 +9,7 @@ MIke          |
 Valente       |
 
 ## Ingredientes
-### Para lasalsa
+### Para la salsa
 <details>
   <summary markdown="span">PASO 1</summary>
 
