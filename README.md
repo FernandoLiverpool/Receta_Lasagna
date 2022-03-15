@@ -40,7 +40,7 @@
   <div class="panel-footer">Puedes usar el sazonador que gustes.</div>
 </div>
 
-![image](https://github.com/FernandoLiverpool/Receta_Lasagna/commit/b7c8db5e1f11784ea08ef32eb9bf0345598a718c)
+![image](https://www.elsoldetoluca.com.mx/incoming/5m9t1h-garfield.jpg/alternates/LANDSCAPE_768/garfield.jpg)
 
 
   
