@@ -40,7 +40,8 @@
   <div class="panel-footer">Puedes usar el sazonador que gustes.</div>
 </div>
 
-![My Remote Image](https://github.com/FernandoLiverpool/Receta_Lasagna/commit/b7c8db5e1f11784ea08ef32eb9bf0345598a718c)
+![image](https://github.com/FernandoLiverpool/Receta_Lasagna/commit/b7c8db5e1f11784ea08ef32eb9bf0345598a718c)
+
 
   
 </details>
