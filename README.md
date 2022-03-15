@@ -40,13 +40,16 @@
   <div class="panel-footer">Puedes usar el sazonador que gustes.</div>
 </div>
 
-### Puedes ver el video si tienes alguna duda
+
 
 ![image](https://www.elsoldetoluca.com.mx/incoming/5m9t1h-garfield.jpg/alternates/LANDSCAPE_768/garfield.jpg)
 
 
   
 </details>
+
+
+### Dale clik para ver el video 
 
 
 [![Puedes ver el video](
