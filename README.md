@@ -1,5 +1,6 @@
 ## Receta_Lasagna
 
+<!-- codigo parte 2 receta Valente hernandez Vazquez -->
 
 compañeros    | 
 ------------- | 
@@ -65,6 +66,7 @@ Valente       |
 [![Puedes ver el video](
 https://simplementerecetas.com/wp-content/uploads/2017/12/lasa%C3%B1a-750x499.jpg)](https://www.youtube.com/watch?v=twMG35nCQ1g "Puedes ver el video")
 
+<!-- FIN codigo parte 2 receta  Valente hernandez Vazquez -->
 
 <!-- codigo parte 3 receta CARLOS CELERINO SANCHEZ ISLAS -->
 ## Método de preparación
