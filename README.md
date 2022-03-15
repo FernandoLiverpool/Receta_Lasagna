@@ -5,13 +5,14 @@ compañeros    |
 Fernando      | 
 Carlos        | 
 Luis          |
-MIke          |
+Mike          |
 Valente       |
 
-## Ingredientes
-### Para la salsa
 <details>
-  <summary markdown="span">PASO 1</summary>
+<summary markdown="span">Ingredientes</summary>
+### Para la salsa
+
+### PASO 1
 
 - 1 kilogramos de tomate (jitomate) hervido
 
