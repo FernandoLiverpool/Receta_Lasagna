@@ -34,8 +34,10 @@
 
 
 <div class="panel panel-default">
-  <div class="panel-heading">Nota</div>
-  <div class="panel-body">Puedes usar el sazonador que gustes.</div>
+  <div class="panel-body">
+    Nota
+  </div>
+  <div class="panel-footer">Puedes usar el sazonador que gustes.</div>
 </div>
 
 
