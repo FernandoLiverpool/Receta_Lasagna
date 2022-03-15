@@ -40,11 +40,8 @@
   <div class="panel-footer">Puedes usar el sazonador que gustes.</div>
 </div>
 
-<img
-  src="C:\Users\VHERNANDEV02\Downloads\garfield.jpg"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+![My Remote Image](https://github.com/FernandoLiverpool/Receta_Lasagna/commit/b7c8db5e1f11784ea08ef32eb9bf0345598a718c)
+
   
 </details>
 
