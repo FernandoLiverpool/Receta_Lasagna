@@ -13,11 +13,30 @@ Luis          |
 Mike          |
 Valente       |
 
-<details>
-<summary markdown="span">Ingredientes</summary>
+
+## Lasaña Boloñesa 
+
+
+8 Persona | 90 Min | Compleja |
+-------------------------------
+
+
+> Te decimos cómo preparar una deliciosa lasaña boloñesa. Una receta italiana muy tradicional.
+
+### ¿Sabías qué?
+
+> La masa para la pasta de lasaña se prepara con harina, huevo, sal y agua.
+
+### Tips 
+
+> Agrega nueces y semillas a la carne molida para una consistencia más crujiente.
+
+
+## Ingredientes
+
 ### Para la salsa
 
-### PASO 1
+#### PASO 1
 
 - 1 kilogramos de tomate (jitomate) hervido
 
@@ -36,8 +55,7 @@ Valente       |
 
 ![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
 
-<details>
-  <summary markdown="span">PASO 2</summary>
+#### PASO 2
 
  
  
