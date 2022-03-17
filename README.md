@@ -52,7 +52,7 @@ Valente       |
 ![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
 
 <details>
-  <summary markdown="span"> ## PASO 2</summary>
+ ## <summary markdown="span"> PASO 2</summary>
 
  
  
