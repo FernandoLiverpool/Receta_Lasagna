@@ -32,7 +32,8 @@ Valente       |
 
 ### Para la salsa
 
-#### PASO 1
+<details>
+  <summary markdown="span">PASO 1</summary>
 
 - 1 kilogramos de tomate (jitomate) hervido
 
@@ -46,6 +47,7 @@ Valente       |
 
 - 1 cucharada de orégano seco
 
+</details>
 
 ### Para el relleno y la pasta
 
