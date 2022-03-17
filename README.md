@@ -1,10 +1,5 @@
 ## Receta_Lasagna
 
-<<<<<<< HEAD
-<!-- codigo parte 2 receta Valente hernandez Vazquez -->
-
-=======
->>>>>>> beaef34de1bb85d14b8799c76aa190ce9ca77414
 
 compañeros    | 
 ------------- | 
