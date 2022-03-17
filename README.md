@@ -51,7 +51,8 @@ Valente       |
 
 ![alt text](https://assets.unileversolutions.com/recipes-v2/109130.jpg?imwidth=1600)
 
-#### PASO 2
+<details>
+  <summary markdown="span"> ## PASO 2</summary>
 
  
  
@@ -76,7 +77,7 @@ Valente       |
 - 150 gramos de queso mozzarella rallado
 
 - 10 hojas de albahaca fresca
-
+</details>
 
 <div class="panel panel-default">
   <div class="panel-body">
