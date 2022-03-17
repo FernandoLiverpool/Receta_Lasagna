@@ -178,7 +178,7 @@ Para la pasta y la boloñesa
         <td>Sirve y decora con hojas de albahaca fresca.
         </table>
         
-# [VE MAS RECETAS SI TE AGRADO ESTA](https://mx.recepedia.com/receta/carne/109130-lasana-bolonesa/)
+# [VE MAS RECETAS SI TE AGRADO ESTA](https://mx.recepedia.com/categoria/tasty/)
 <!-- linea doble horizontal-->
 ----
 __________
