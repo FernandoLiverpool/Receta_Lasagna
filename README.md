@@ -1,15 +1,35 @@
 ## Receta_Lasagna
 
+<<<<<<< HEAD
 <!-- codigo parte 2 receta Valente hernandez Vazquez -->
 
+=======
+>>>>>>> beaef34de1bb85d14b8799c76aa190ce9ca77414
 compañeros    | 
 ------------- | 
 Fernando      | 
 Carlos        | 
 Luis          |
-MIke          |
+Mike          |
 Valente       |
 
+<details>
+<summary markdown="span">Ingredientes</summary>
+### Para la salsa
+
+### PASO 1
+
+- 1 kilogramos de tomate (jitomate) hervido
+
+- 2 cubos de 21 gramos de Knorr Romate
+
+- 2 cucharadas de aceite de oliva
+
+- 1/2 cebolla picada
+
+- 5 hojas de albaca seca
+
+- 1 cucharada de orégano seco
 
 
 ### Para el relleno y la pasta
@@ -109,6 +129,36 @@ Para la pasta y la boloñesa
         </tr>
    <tr>
         <td>Sazonar con Knorr® Costilla Jugosa, pimienta y canela. Reservar.
+   <tr>
+        <td>Paso 3
+        </tr>
+   <tr>
+        <td>En un molde para horno previamente engrasado, colocar una base de salsa y una capa de la carne molida. Cubrir con una capa de láminas de lasaña.
+    <tr>
+        <td>Paso 4
+        </tr>
+   <tr>
+        <td>Añadir más salsa, más carne y cubrir nuevamente con pasta. repetir estos pasos hasta llenar el molde.
+   <tr>
+        <td>Paso 5
+        </tr>
+   <tr>
+        <td>Terminan on una capa de salsa de tomate. Repartir el queso mozzarella sobre la lasaña y cubrir con papel aluminio.
+    <tr>
+        <td>Paso 6
+        </tr>
+   <tr>
+        <td>Hornear a 180°C durante 35 a 50 minutos.
+   <tr>
+        <td>Paso 7
+        </tr>
+   <tr>
+        <td>Cinco minutos antes de sacar la lasaña del horno, retira el papel aluminio para lograr que el queso se dore de manera uniforme.
+    <tr>
+        <td>Paso 8
+        </tr>
+   <tr>
+        <td>Sirve y decora con hojas de albahaca fresca.
         </table>
         
 <!-- linea doble horizontal-->
